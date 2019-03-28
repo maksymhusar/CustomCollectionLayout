@@ -1,6 +1,6 @@
 # CustomCollectionLayout
 
-This is an example project for article:
+This is an example project for my article:
 
 In English:
 https://indeema.com/blog/uicollectionview-tutorial--changing-presentation-on-the-fly
